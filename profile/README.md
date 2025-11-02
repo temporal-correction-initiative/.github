@@ -1,4 +1,4 @@
-## # We are The Temporal Correction Initiative!
+# We are The Temporal Correction Initiative!
 
 For too long, we have all been forced to endure the unnatural ordering of days and to suffer the indignities of temporal chaos imposed upon us. We refuse to tolerate the corruption of measurement, the desecration of temporal law, and the disorder to which the natural flow of time has been subjugated.
 
